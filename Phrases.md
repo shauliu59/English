@@ -1,4 +1,8 @@
 # The Family Man
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 | a | b | c
 | do u have any idea | when u r angry and complaining
 - **put sb through sth**: suffering
