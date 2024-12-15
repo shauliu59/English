@@ -1,5 +1,6 @@
 # The Family Man
-- **do u have any idea**: when u r angry and complaining
+| a | b | c
+| do u have any idea | when u r angry and complaining
 - **put sb through sth**: suffering
 - **walk out of (place)**: leave
 - **be on the phone with** : call 
