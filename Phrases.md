@@ -2,7 +2,7 @@
 | Phrase                            | Meaning                                     |
 |-----------------------------------|---------------------------------------------|
 | **do u have any idea**    | when u r angry and complaining                      |
-| **put sb through sth**            | suffering                                   |
+| **put sb through sth**            | endure difficult thing                      |
 | **walk out of (place)**           | leave                                       |
 | **be on the phone with**          | call                                        |
 | **for God's sakes**               | 1. very angry 2. strongly advise           |
