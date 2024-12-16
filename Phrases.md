@@ -13,5 +13,8 @@
 | **mumbo jumbo**                   | nonsense                                    |
 | **in plain English**              | 说人话                                      |
 | **let it come to u/take your time** | 顺其自然                                  |
+| **how could u do sth**            | -                                           |
+| **what's it gonna take**          | What is required to achieve something       |
+| **have a knack for**              | have a natural talent                       |
 
 
