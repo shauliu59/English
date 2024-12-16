@@ -16,5 +16,7 @@
 | **how could u do sth**            | -                                           |
 | **what's it gonna take**          | What is required to achieve something       |
 | **have a knack for**              | have a natural talent                       |
+| **the whole package**             | has all ideal attributes                    |
+| **get back on track**             | return to the correct direction             |
 
 
