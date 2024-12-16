@@ -11,7 +11,7 @@
 | **get worked up about**           | very excited or upset about sth             |
 | **bring/brought sth on/upon yourself**    | 你自找的                            |
 | **mumbo jumbo**                   | nonsense                                    |
-| **in plain English**              | 说人话                                      |
+| **in plain English**              | in simple English                           |
 | **let it come to u/take your time** | 顺其自然                                  |
 | **how could u do sth**            | -                                           |
 | **what's it gonna take**          | What is required to achieve something       |
