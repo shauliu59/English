@@ -3,7 +3,7 @@
 |-----------------------------------|---------------------------------------------|
 | **do u have any idea**            | when u r angry and complaining              |
 | **put sb through sth**            | endure difficult thing                      |
-| **walk out of (place)**           | leave                                       |
+| **walk out of somewhere**         | leave                                       |
 | **be on the phone with**          | call                                        |
 | **for God's sakes**               | 1. very angry 2. strongly advise            |
 | **what kind of person/man**       | -                                           |
