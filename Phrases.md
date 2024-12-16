@@ -9,7 +9,7 @@
 | **what kind of person/man**       | -                                           |
 | **without (saying) a word**       | -                                           |
 | **get worked up about**           | very excited or upset about sth             |
-| **bring sth on/upon yourself**    | 你自找的                                    |
+| **bring/brought sth on/upon yourself**    | 你自找的                            |
 | **mumbo jumbo**                   | nonsense                                    |
 | **in plain English**              | 说人话                                      |
 | **let it come to u/take your time** | 顺其自然                                  |
