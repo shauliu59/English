@@ -19,4 +19,12 @@
 | **the whole package**             | has all ideal attributes                    |
 | **get back on track**             | return to the correct direction             |
 
+# 金装律师
+| Phrase                            | Meaning                                      |
+|-----------------------------------|----------------------------------------------|
+| **be riddled with sth**           | full of something undesirable or problematic |
+| **which is why**                  | so                                           |
+| **backwards and forwards**        | -                                            |
+| **like I asked**                  | "Did you set it up like I asked?"            |
+
 
